@@ -14,3 +14,6 @@ The purpose of this exercise was learn C#.
 
 ## Status
 Project is: _finished_ because I passed the exam ;-)
+
+## Source
+This exercise is from my lecturer, Mr Marcinkowski.
