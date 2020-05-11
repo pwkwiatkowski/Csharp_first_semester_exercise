@@ -5,7 +5,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Status](#status)
-* [Inspiration](#inspiration)
 
 ## General info
 The purpose of this exercise was learn C#.
